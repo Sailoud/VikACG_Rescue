@@ -4,8 +4,8 @@
 [**https://github.com/Sailoud/VikACG_Rescue/wiki**](https://github.com/Sailoud/VikACG_Rescue/wiki)
 
 另外也可以在这里下载最新版的VikACG
-官网（可能您的地区无法连接）：[https://app.vikacg.com](https://app.vikacg.com)
-Github备用下载：[https://github.com/Sailoud/VikACG_Rescue/releases](https://github.com/Sailoud/VikACG_Rescue/releases)
+  官网（可能您的地区无法连接）：[https://app.vikacg.com](https://app.vikacg.com)
+  Github备用下载：[https://github.com/Sailoud/VikACG_Rescue/releases](https://github.com/Sailoud/VikACG_Rescue/releases)
 
 ## 关注我们
 
